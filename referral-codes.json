@@ -1,0 +1,14 @@
+{
+  "device": [
+    {
+      "name": "Quest 3/3S",
+      "link": "https://www.meta.com/referrals/link/Adex77",
+      "credit": 30
+    }
+  ],
+  "games": [
+    { "name": "Beat Saber", "link": "https://www.meta.com/appreferrals/Adex77/2448060205267927", "discount": 25 },
+    { "name": "Eleven Table Tennis", "link": "https://www.meta.com/appreferrals/Adex77/1995434190525828", "discount": 25 },
+    { "name": "Asgard Wrath 2", "link": "https://www.meta.com/appreferrals/Adex77/2603836099654226", "discount": 25 }
+  ]
+}
